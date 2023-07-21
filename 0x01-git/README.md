@@ -1,1 +1,2 @@
-Git project ALX
+## Git project ALX
+### Updated README
